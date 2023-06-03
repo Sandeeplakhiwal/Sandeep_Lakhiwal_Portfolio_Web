@@ -42,8 +42,7 @@ const About = () => {
       <motion.p variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl"
       >
-        I'm skilled software developer with experience in JavaScript, and expertise in frameworks like React,
-        Node.js and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable and userfriendly solutions that solve real world problems. Let's work together to bring your ideas to life!
+      I am a MERN stack developer with expertise in building web applications using MongoDB, Express.js, React.js, and Node.js. With experience in both front-end and back-end development, I can create scalable, responsive, and interactive web solutions. I am passionate about leveraging my skills to solve complex problems and deliver high-quality products that meet business needs.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
